@@ -14,7 +14,7 @@ For a company:
 
 ## Project Description
 
-![](/home/neoresme222/Documents/Capstones/Capstone3/Patents/img/scheme.jpg)
+![](img/scheme.jpg)
 
 
 
