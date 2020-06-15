@@ -26,7 +26,7 @@ Format: ![Alt Text](url)
 #csplit -f 'patent-' -b '%02d.xml' *{filepath}*.xml '/^<?xml /' '{*}'
 
 3. Follow the guidelines in the code contained therein:
- 1. Instantiate the dataframe
- 2. preprocess text
+ 3. Instantiate the dataframe
+ 3. preprocess text
  3. input search text (query)
- 4. run categorization algorithm 
+ 3. run categorization algorithm 
