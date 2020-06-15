@@ -14,8 +14,8 @@ For a company:
 
 ## Project Description
 
-![Proj Scheme](/home/neoresme222/Documents/Capstones/Capstone3/Patents/img/scheme.jpg)
-Format: ![Alt Text](url)
+![](/home/neoresme222/Documents/Capstones/Capstone3/Patents/img/scheme.jpg)
+
 
 
 
@@ -30,3 +30,6 @@ Format: ![Alt Text](url)
    1. preprocess text
    1. input search text (query)
    1. run categorization algorithm 
+
+## References
+Official patent categorization criteria can be found here: https://www.uspto.gov/web/patents/classification/cpc/html/cpc.html
