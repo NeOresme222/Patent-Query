@@ -22,11 +22,11 @@ Format: ![Alt Text](url)
  ## Procedure
  1. Download the most recent patent cache from the USPTO at https://developer.uspto.gov/
  
- 2. Seperate individual XML files from USPTO caches by entering the following code in terminal:
+ 1. Seperate individual XML files from USPTO caches by entering the following code in terminal:
 #csplit -f 'patent-' -b '%02d.xml' *{filepath}*.xml '/^<?xml /' '{*}'
 
-3. Follow the guidelines in the code contained therein:
-  3. Instantiate the dataframe
-  3. preprocess text
-  3. input search text (query)
-  3. run categorization algorithm 
+1. Follow the guidelines in the code contained therein:
+  1. Instantiate the dataframe
+  1. preprocess text
+  1. input search text (query)
+  1. run categorization algorithm 
