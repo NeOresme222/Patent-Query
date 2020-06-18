@@ -18,6 +18,10 @@ For a company:
 
 
 
+![](img/scheme.jpg)
+
+
+
 
  ## Procedure
  1. Download the most recent patent cache from the USPTO at https://developer.uspto.gov/
