@@ -15,13 +15,16 @@ For a company:
 ## Project Description
 
 ![](img/overview.jpg)
+Simple input/output model: A description of the intended device (patent) is given. This description is cross-refenced with the database. The five most similiar descriptions and the most likely classification are returned. 
 ![](img/scheme.jpg)
 
-
 ## Example
-
+### Input
 ![](img/example.jpg)
+This is a patent from the USPTO cache used (June 4, 2020). Note the title, section, and abstract.
+### Output
 ![](img/output.jpg)
+These are the resuts of the query. 
 
  ## Procedure
  1. Download the most recent patent cache from the USPTO at https://developer.uspto.gov/
