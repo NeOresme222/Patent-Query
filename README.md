@@ -14,7 +14,7 @@ For a company:
 
 ## Project Description
 
-![](img/scheme.jpg)
+![](img/overview.jpg)
 
 
 
