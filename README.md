@@ -23,7 +23,8 @@ For a company:
  1. Download the most recent patent cache from the USPTO at https://developer.uspto.gov/
  
  1. Seperate individual XML files from USPTO caches by entering the following code in terminal:
-#csplit -f 'patent-' -b '%02d.xml' *{filepath}*.xml '/^<?xml /' '{*}'
+ 
+ #csplit -f 'patent-' -b '%02d.xml' *{filepath}*.xml '/^<?xml /' '{*}'
 
 1. Follow the guidelines in the code contained therein:
    1. Instantiate the dataframe
