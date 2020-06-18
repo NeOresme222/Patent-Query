@@ -17,6 +17,7 @@ For a company:
 ![](img/overview.jpg)
 Simple input/output model: A description of the intended device (patent) is given. This description is cross-refenced with the database. The five most similiar descriptions and the most likely classification are returned. 
 ![](img/scheme.jpg)
+Once the USPTO xml file cache has been uploaded and processed, the patent abstracts and descriptions are conglomerated and the text is cleaned. Text vectorization must be separate for the document similarity and categorization features because document similarity must include the query while the categorization models must be trained without it. Multiple models were trained for the categorization feature in order to determine the most effective approach. A Stochastic Gradient Descent informed Linear Regression model was ultimately employed. 
 
 ## Example
 ### Input
