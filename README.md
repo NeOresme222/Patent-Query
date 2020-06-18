@@ -15,13 +15,13 @@ For a company:
 ## Project Description
 
 ![](img/overview.jpg)
-
-
-
 ![](img/scheme.jpg)
 
 
+## Example
 
+![](img/example.jpg)
+![](img/output.jpg)
 
  ## Procedure
  1. Download the most recent patent cache from the USPTO at https://developer.uspto.gov/
